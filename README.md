@@ -1,2 +1,2 @@
-# Titanic_Psong
-A Record of Titanic Machine Learning from Disaster
+# Kaggle_Psong
+Kaggle上部分竞赛题个人练习记录
